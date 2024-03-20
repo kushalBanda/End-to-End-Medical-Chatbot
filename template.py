@@ -15,7 +15,7 @@ list_of_files = [
     "research/trails.ipynb",
     "app.py",
     "store_index.py",
-    "static",
+    "static.gitkeep",
     "templates/chat.html",
 ]
 
